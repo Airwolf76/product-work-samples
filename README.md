@@ -14,6 +14,6 @@ This repository contains selected product artifacts demonstrating my approach to
 - **Martech Integrity Platform Summary (PDF)**  
   A concise architecture and workflow overview demonstrating platform governance and data-quality controls.
 
-- **IBM - 100% (AKA AI Capstone – Recommender System) (PPT) ** 
+- **IBM - 100% (AKA AI Capstone – Recommender System) (PPT)** 
 A complete end‑to‑end project demonstrating data preparation, model development, evaluation, and UX workflow design. Includes architecture diagrams, model metrics, and product framing.
 
